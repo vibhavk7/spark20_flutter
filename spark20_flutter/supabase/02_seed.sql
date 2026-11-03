@@ -1,0 +1,1 @@
+-- No demo profiles or synthetic activity are seeded.
